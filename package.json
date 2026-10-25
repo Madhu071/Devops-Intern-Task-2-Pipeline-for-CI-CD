@@ -3,9 +3,9 @@
   "name": "my-node-app",
   "version": "1.0.0",
   "description": "Node.js app for Jenkins CI/CD",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node Server.js",
-    "test": "node --check Server.js"
+    "start": "node server.js",
+    "test": "node --check server.js"
   }
 }
